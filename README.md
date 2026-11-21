@@ -33,7 +33,7 @@ I'm Renzo, a student at Brigham Young University-Idaho interested in full-stack 
 
 ## Let's Connect!
 
-- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() Here is my [LinkedIn](https://www.linkedin.com/in/renzocardoza/) profile 
+- Here is my [LinkedIn](https://www.linkedin.com/in/renzocardoza/) profile 
 - Here is my [Instagram](https://www.instagram.com/zerowind20/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
